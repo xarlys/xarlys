@@ -1,4 +1,4 @@
-### Olá tudo bem ? Sou Xarlys Souza, conheça um pouco mais de mim.
+### Olá tudo bem ? Sou Xarlys Souza, saiba um pouco mais sobre mim.
 
 - 🔭 Hoje eu trabalho com front-end, back-end e banco de dados
 - 🌱 Estou fazendo pós graduação em Big Data e Inteligência Competitiva
@@ -22,7 +22,6 @@
   <img align="center" alt="Xarlys-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Xarlys-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Xarlys-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Xarlys-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ##
