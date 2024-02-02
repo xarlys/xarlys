@@ -1,4 +1,4 @@
-# REFORMULANDO MEU GITHUB - PROJETOS ADD A POSTERIORI
+# REFORMULANDO MEU GITHUB - Projetos serão add aos poucos
 
 ### Olá tudo bem ? Sou Xarlys Souza, saiba um pouco mais sobre mim.
 
